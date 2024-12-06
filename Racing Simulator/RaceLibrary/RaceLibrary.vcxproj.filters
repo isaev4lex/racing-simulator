@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\Parents">
+      <UniqueIdentifier>{3ea652ae-b082-4aef-a662-3b5e1ebca213}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Ground">
+      <UniqueIdentifier>{1991a10d-af65-4883-903b-63c572587aa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Air">
+      <UniqueIdentifier>{bfe8a1b1-b31e-4219-950f-e53919fcfac1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Races">
+      <UniqueIdentifier>{23818521-c3ee-4cd4-b45c-3403bc040f89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\RaceLibConnection">
+      <UniqueIdentifier>{8bfbb58f-b176-4ed1-8f69-b747b1f34e97}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Vehicle.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="AirRace.h">
+      <Filter>Файлы заголовков\Races</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AirVehicle.h">
+      <Filter>Файлы заголовков\Parents</Filter>
+    </ClInclude>
+    <ClInclude Include="Vehicle.h">
+      <Filter>Файлы заголовков\Parents</Filter>
+    </ClInclude>
+    <ClInclude Include="GroundVehicle.h">
+      <Filter>Файлы заголовков\Parents</Filter>
+    </ClInclude>
+    <ClInclude Include="Camel.h">
+      <Filter>Файлы заголовков\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="CamelFastWalker.h">
+      <Filter>Файлы заголовков\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="Centaur.h">
+      <Filter>Файлы заголовков\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="AllTerrainVehicleBoots.h">
+      <Filter>Файлы заголовков\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicCarpet.h">
+      <Filter>Файлы заголовков\Air</Filter>
+    </ClInclude>
+    <ClInclude Include="Eagle.h">
+      <Filter>Файлы заголовков\Air</Filter>
+    </ClInclude>
+    <ClInclude Include="Broomstick.h">
+      <Filter>Файлы заголовков\Air</Filter>
+    </ClInclude>
+    <ClInclude Include="AllTypeRace.h">
+      <Filter>Файлы заголовков\Races</Filter>
+    </ClInclude>
+    <ClInclude Include="GroundRace.h">
+      <Filter>Файлы заголовков\Races</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="RaceLibConnection.h">
+      <Filter>Файлы заголовков\RaceLibConnection</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

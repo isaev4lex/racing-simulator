@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Centaur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\Centaur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\CamelFastWalker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\CamelFastWalker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Camel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\Camel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\AllTerrainVehicleBoots.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\AllTerrainVehicleBoots.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\MagicCarpet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\MagicCarpet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Eagle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\Eagle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Broomstick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\Broomstick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\GroundVehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\GroundVehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\GroundRace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\GroundRace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\AirRace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\AirRace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\AirVehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\AirVehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Vehicle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\Vehicle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\AllTypeRace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\AllTypeRace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39653E4-6326-4CA0-A555-62E6A8235EF2}|Racing Simulator\\Racing Simulator.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\Racing Simulator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B39653E4-6326-4CA0-A555-62E6A8235EF2}|Racing Simulator\\Racing Simulator.vcxproj|solutionrelative:Racing Simulator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\RaceLibConnection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FD66119-ABE9-4624-AEA1-A90782AA73EC}|RaceLibrary\\RaceLibrary.vcxproj|solutionrelative:RaceLibrary\\RaceLibConnection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\Racing Simulator\\main.cpp",
+              "RelativeDocumentMoniker": "Racing Simulator\\main.cpp",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\Racing Simulator\\main.cpp",
+              "RelativeToolTip": "Racing Simulator\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T14:12:41.22Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Eagle.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Eagle.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\Eagle.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Eagle.h",
+              "RelativeToolTip": "RaceLibrary\\Eagle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:17:27.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UI.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\UI.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\UI.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\UI.h",
+              "RelativeToolTip": "RaceLibrary\\UI.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T15:11:04.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UI.cpp",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\UI.cpp",
+              "RelativeDocumentMoniker": "RaceLibrary\\UI.cpp",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\UI.cpp",
+              "RelativeToolTip": "RaceLibrary\\UI.cpp",
+              "ViewState": "AgIAANcBAAAAAAAAAAAAAOoBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T17:39:01.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroundRace.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\GroundRace.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\GroundRace.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\GroundRace.h",
+              "RelativeToolTip": "RaceLibrary\\GroundRace.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:38:22.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AirRace.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\AirRace.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\AirRace.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\AirRace.h",
+              "RelativeToolTip": "RaceLibrary\\AirRace.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:38:10.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AirVehicle.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\AirVehicle.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\AirVehicle.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\AirVehicle.h",
+              "RelativeToolTip": "RaceLibrary\\AirVehicle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:28:46.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroundVehicle.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\GroundVehicle.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\GroundVehicle.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\GroundVehicle.h",
+              "RelativeToolTip": "RaceLibrary\\GroundVehicle.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:06:47.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehicle.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Vehicle.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\Vehicle.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Vehicle.h",
+              "RelativeToolTip": "RaceLibrary\\Vehicle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:03:52.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AllTypeRace.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\AllTypeRace.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\AllTypeRace.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\AllTypeRace.h",
+              "RelativeToolTip": "RaceLibrary\\AllTypeRace.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:38:04.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vehicle.cpp",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Vehicle.cpp",
+              "RelativeDocumentMoniker": "RaceLibrary\\Vehicle.cpp",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Vehicle.cpp",
+              "RelativeToolTip": "RaceLibrary\\Vehicle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T17:03:41.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RaceLibConnection.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\RaceLibConnection.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\RaceLibConnection.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\RaceLibConnection.h",
+              "RelativeToolTip": "RaceLibrary\\RaceLibConnection.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T15:29:10.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Centaur.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Centaur.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\Centaur.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Centaur.h",
+              "RelativeToolTip": "RaceLibrary\\Centaur.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:12:34.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CamelFastWalker.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\CamelFastWalker.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\CamelFastWalker.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\CamelFastWalker.h",
+              "RelativeToolTip": "RaceLibrary\\CamelFastWalker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:12:00.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Camel.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Camel.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\Camel.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Camel.h",
+              "RelativeToolTip": "RaceLibrary\\Camel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:08:06.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllTerrainVehicleBoots.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\AllTerrainVehicleBoots.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\AllTerrainVehicleBoots.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\AllTerrainVehicleBoots.h",
+              "RelativeToolTip": "RaceLibrary\\AllTerrainVehicleBoots.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:13:41.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MagicCarpet.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\MagicCarpet.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\MagicCarpet.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\MagicCarpet.h",
+              "RelativeToolTip": "RaceLibrary\\MagicCarpet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:16:15.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Broomstick.h",
+              "DocumentMoniker": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Broomstick.h",
+              "RelativeDocumentMoniker": "RaceLibrary\\Broomstick.h",
+              "ToolTip": "C:\\Users\\isaev\\Desktop\\netology_cpp\\10. Racing Simulator\\Racing Simulator\\RaceLibrary\\Broomstick.h",
+              "RelativeToolTip": "RaceLibrary\\Broomstick.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:18:12.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

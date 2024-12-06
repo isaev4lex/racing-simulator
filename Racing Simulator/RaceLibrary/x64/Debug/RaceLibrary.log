@@ -1,0 +1,59 @@
+﻿  AirRace.h
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\Vehicle.h(8,14): warning C4251: "Vehicle::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Vehicle"
+  (компиляция исходного файла "AirRace.h")
+      D:\Programs\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\AirRace.h(23,65): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\AirRace.h(23,65): warning C4244:         with
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\AirRace.h(23,65): warning C4244:         [
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\AirRace.h(23,65): warning C4244:             _Ty=float
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\AirRace.h(23,65): warning C4244:         ]
+  UI.cpp
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\UI.h(22,27): warning C4251: "UIinterface::choosen_vehicles": "std::vector<std::string,std::allocator<std::string>>" должен иметь dll-интерфейс для использования клиентами "UIinterface"
+  (компиляция исходного файла "UI.cpp")
+      D:\Programs\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+       см. объявление "std::vector<std::string,std::allocator<std::string>>"
+  
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\UI.h(24,14): warning C4251: "UIinterface::available_races": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "UIinterface"
+  (компиляция исходного файла "UI.cpp")
+      D:\Programs\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\UI.h(30,14): warning C4251: "UIinterface::available_ground_vehicles": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "UIinterface"
+  (компиляция исходного файла "UI.cpp")
+      D:\Programs\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\UI.h(36,14): warning C4251: "UIinterface::available_air_vehicles": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "UIinterface"
+  (компиляция исходного файла "UI.cpp")
+      D:\Programs\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\UI.h(41,14): warning C4251: "UIinterface::available_mixed_vehicles": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "UIinterface"
+  (компиляция исходного файла "UI.cpp")
+      D:\Programs\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\Vehicle.h(8,14): warning C4251: "Vehicle::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Vehicle"
+  (компиляция исходного файла "UI.cpp")
+      D:\Programs\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\AirRace.h(23,65): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\AirRace.h(23,65): warning C4244:         with
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\AirRace.h(23,65): warning C4244:         [
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\AirRace.h(23,65): warning C4244:             _Ty=float
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\AirRace.h(23,65): warning C4244:         ]
+  (компиляция исходного файла "UI.cpp")
+  
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\GroundRace.h(25,60): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\GroundRace.h(25,60): warning C4244:         with
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\GroundRace.h(25,60): warning C4244:         [
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\GroundRace.h(25,60): warning C4244:             _Ty=float
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\GroundRace.h(25,60): warning C4244:         ]
+  (компиляция исходного файла "UI.cpp")
+  
+  Создание кода...
+C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\RaceLibrary\UI.cpp(268,1): warning C4715: UIinterface::main_menu: значение возвращается не при всех путях выполнения
+  RaceLibrary.vcxproj -> C:\Users\isaev\Desktop\netology_cpp\10. Racing Simulator\Racing Simulator\x64\Debug\RaceLibrary.dll
